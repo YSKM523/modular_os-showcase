@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Modular_OS banner" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/YSKM523/modular_os-showcase">
     <img src="https://img.shields.io/badge/showcase-public-0f172a?style=for-the-badge" alt="Public showcase badge" />
   </a>
