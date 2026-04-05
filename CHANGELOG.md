@@ -10,6 +10,10 @@ All notable public-facing updates for `Modular_OS` will be tracked here.
 - Product overview README with roadmap, stack, and contact entry points
 - Real interface screenshot from the current running build
 - Public profile placement through the `YSKM523` profile README
+- Product story section focused on B2B positioning and modular construction operations
+- Next-version plan section for product, workflow, platform, and public-facing progress
+- Screenshot explanation copy that frames the interface as production software instead of a generic dashboard
+- SEO-oriented keyword and positioning copy for modular construction software discovery
 
 ### Changed
 

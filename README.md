@@ -32,6 +32,21 @@ Public-facing home for the `Modular_OS` project.
 - Delivery model: web app with desktop packaging support
 - Public signal: updates, previews, roadmap, and contact surface live here
 
+## Product Story
+
+Most production tools in modular construction are fragmented across spreadsheets, status chats, whiteboards, and generic project trackers. That creates a predictable problem: operations leaders can see activity, but they cannot see flow.
+
+`Modular_OS` is being built to solve that gap. The goal is not to create another generic Kanban board. The goal is to give modular construction teams a B2B operating layer that makes stage movement, blockers, dispatch readiness, and execution risk visible in one place.
+
+From a product perspective, this is aimed at real operating teams:
+
+- plant managers who need a reliable system of record for production flow
+- operations leads who need live visibility into WIP pressure and blockers
+- project stakeholders who need cleaner status reporting without manual follow-up
+- teams that want software shaped around modular construction, not adapted from generic task tools
+
+The long-term direction is clear: `Modular_OS` should feel less like a board and more like a production operating system for modular construction businesses.
+
 ## Contact Buttons
 
 [![Request Walkthrough](https://img.shields.io/badge/request-walkthrough-0b5fff?style=for-the-badge)](https://github.com/YSKM523/modular_os-showcase/issues/new)
@@ -41,6 +56,17 @@ Public-facing home for the `Modular_OS` project.
 ## Interface Preview
 
 ![Modular_OS home screen](assets/modular_os-home.png)
+
+### Screenshot Notes
+
+This screen is not framed as a generic project dashboard. It is intended to communicate B2B production control:
+
+- the stage-based layout is designed around flow control, not simple task sorting
+- the command-center layer is meant to surface operational risk, WIP pressure, and dispatch readiness quickly
+- the UI direction favors high-signal scanning for supervisors and operators over consumer-style decoration
+- the product is being shaped so that a factory team can understand what is blocked, what is overloaded, and what is ready to move in seconds
+
+The design target is practical software for operations teams: structured, legible, fast to scan, and built around real production handoffs.
 
 ## What It Does
 
@@ -73,6 +99,34 @@ The implementation repository is currently private while the product is still ev
 - Refine desktop packaging and release flow
 - Prepare a cleaner public-facing product presentation
 
+## Next Version Plan
+
+The next visible version of `Modular_OS` is being shaped around a stronger B2B software standard.
+
+### Product
+
+- tighten the language and layout so the product reads like operations software, not a prototype
+- improve role clarity for managers, supervisors, and read-only stakeholders
+- expand production metrics so teams can understand throughput, delay sources, and execution health faster
+
+### Workflow
+
+- deepen blocker management with better ownership, resolution tracking, and audit clarity
+- strengthen dispatch readiness and stage transition logic
+- improve how projects, modules, and logs connect across the production lifecycle
+
+### Platform
+
+- harden runtime data handling and deployment flow
+- improve desktop packaging and release reliability
+- continue standardizing naming, structure, and operational setup around `Modular_OS`
+
+### Public-facing
+
+- publish more annotated screenshots and feature walkthroughs
+- sharpen product positioning around modular construction production control software
+- keep improving public content so the project is easier to understand for operators, buyers, and collaborators
+
 ## Changelog
 
 - Latest public-facing updates: [CHANGELOG.md](./CHANGELOG.md)
@@ -84,6 +138,19 @@ The implementation repository is currently private while the product is still ev
 - The runtime path and service naming have been standardized around `modular_os`
 - A private source repository is live and tracked separately from this showcase repo
 - This public repo will continue to receive product-facing updates, previews, and progress signals
+
+## SEO Direction
+
+The public content around `Modular_OS` is being tuned for discoverability around searches such as:
+
+- modular construction software
+- modular construction production software
+- prefab manufacturing software
+- offsite construction operations software
+- production control software for modular construction
+- factory workflow software for modular building teams
+
+The content strategy is to stay specific and product-led rather than generic. That means clearer B2B positioning, stronger problem framing, and more concrete screenshots and updates over time.
 
 ## Repositories
 
