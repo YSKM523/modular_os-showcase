@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YSKM523/modular_os-showcase/issues/new">Request walkthrough</a> ·
-  <a href="https://github.com/YSKM523/modular_os-showcase/issues">Open an issue</a> ·
-  <a href="./CHANGELOG.md">View changelog</a> ·
+  <a href="https://github.com/YSKM523/modular_os-showcase/issues/new">Request walkthrough</a> |
+  <a href="https://github.com/YSKM523/modular_os-showcase/issues">Open an issue</a> |
+  <a href="./CHANGELOG.md">View changelog</a> |
   <a href="https://github.com/YSKM523">GitHub profile</a>
 </p>
 
@@ -55,11 +55,27 @@ The long-term direction is clear: `Modular_OS` should feel less like a board and
 
 ## Interface Preview
 
+### Operations Overview
+
+High-level command center for plant managers and operations leads. This view is designed to surface flow health, blockers, and dispatch readiness in one scan.
+
 ![Modular_OS overview dashboard](assets/overview-dashboard.png)
+
+### Project Pipeline
+
+Project-level planning surface for sequencing work, tracking readiness, and keeping delivery flow visible before execution pressure builds downstream.
 
 ![Modular_OS project pipeline](assets/project-pipeline.png)
 
+### Module Control Board
+
+Module-level execution board for moving work through production stages with clearer status control, ownership, and bottleneck visibility on the floor.
+
 ![Modular_OS module board](assets/module-board.png)
+
+### Activity and Coordination
+
+Realtime activity layer for tracking changes, coordination signals, and follow-up actions. It is meant to help supervisors understand what changed and where attention is needed next.
 
 ![Modular_OS activity log](assets/activity-log.png)
 
