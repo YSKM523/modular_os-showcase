@@ -1,10 +1,7 @@
+<h1 align="center">Modular_OS</h1>
+
 <p align="center">
-  <a href="https://github.com/YSKM523/modular_os-showcase">
-    <img src="https://img.shields.io/badge/showcase-public-0f172a?style=for-the-badge" alt="Public showcase badge" />
-  </a>
-  <img src="https://img.shields.io/badge/source-private-7c2d12?style=for-the-badge" alt="Private source badge" />
-  <img src="https://img.shields.io/badge/status-active%20development-14532d?style=for-the-badge" alt="Status badge" />
-  <img src="https://img.shields.io/badge/focus-factory%20ops-1d4ed8?style=for-the-badge" alt="Factory ops badge" />
+  Production control software for modular construction teams.
 </p>
 
 <p align="center">
@@ -13,8 +10,6 @@
   <a href="./CHANGELOG.md">View changelog</a> |
   <a href="https://github.com/YSKM523">GitHub profile</a>
 </p>
-
-# Modular_OS Showcase
 
 Public-facing home for the `Modular_OS` project.
 
