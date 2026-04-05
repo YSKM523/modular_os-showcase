@@ -55,16 +55,22 @@ The long-term direction is clear: `Modular_OS` should feel less like a board and
 
 ## Interface Preview
 
-![Modular_OS home screen](assets/modular_os-home.png)
+![Modular_OS overview dashboard](assets/overview-dashboard.png)
+
+![Modular_OS project pipeline](assets/project-pipeline.png)
+
+![Modular_OS module board](assets/module-board.png)
+
+![Modular_OS activity log](assets/activity-log.png)
 
 ### Screenshot Notes
 
-This screen is not framed as a generic project dashboard. It is intended to communicate B2B production control:
+These screens are not framed as a generic project dashboard. They are intended to communicate B2B production control:
 
-- the stage-based layout is designed around flow control, not simple task sorting
-- the command-center layer is meant to surface operational risk, WIP pressure, and dispatch readiness quickly
-- the UI direction favors high-signal scanning for supervisors and operators over consumer-style decoration
-- the product is being shaped so that a factory team can understand what is blocked, what is overloaded, and what is ready to move in seconds
+- the overview layer is designed to surface flow health, blocker pressure, and stage readiness quickly
+- the project and module views are built around production movement, not generic task sorting
+- the activity and coordination surfaces are meant to help supervisors and operators scan risk fast
+- the product is being shaped so a factory team can understand what is blocked, what is overloaded, and what is ready to move in seconds
 
 The design target is practical software for operations teams: structured, legible, fast to scan, and built around real production handoffs.
 
