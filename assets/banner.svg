@@ -1,0 +1,38 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="84" y1="48" x2="1218" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#0B3B37"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="card" x1="820" y1="160" x2="1140" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#153B59"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" rx="32" fill="url(#bg)"/>
+  <circle cx="1102" cy="112" r="162" fill="#1D4ED8" fill-opacity="0.18"/>
+  <circle cx="1024" cy="518" r="180" fill="#16A34A" fill-opacity="0.14"/>
+  <rect x="78" y="76" width="184" height="44" rx="22" fill="#F8FAFC" fill-opacity="0.1"/>
+  <text x="108" y="104" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="18" font-weight="700">PUBLIC SHOWCASE</text>
+  <text x="78" y="206" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="76" font-weight="800">Modular_OS</text>
+  <text x="78" y="264" fill="#93C5FD" font-family="Arial, sans-serif" font-size="34" font-weight="600">Production control for modular construction teams</text>
+  <text x="78" y="328" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="26">Realtime board visibility, blocker control, dispatch tracking,</text>
+  <text x="78" y="366" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="26">and factory-floor execution tooling in one operating layer.</text>
+  <rect x="78" y="430" width="180" height="56" rx="18" fill="#16A34A"/>
+  <text x="110" y="465" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">ACTIVE DEV</text>
+  <rect x="278" y="430" width="178" height="56" rx="18" fill="#F59E0B"/>
+  <text x="308" y="465" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="800">PRIVATE CODE</text>
+  <rect x="476" y="430" width="208" height="56" rx="18" fill="#E2E8F0" fill-opacity="0.12" stroke="#E2E8F0" stroke-opacity="0.18"/>
+  <text x="508" y="465" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">PUBLIC UPDATES</text>
+  <rect x="826" y="150" width="360" height="332" rx="28" fill="url(#card)" stroke="#E2E8F0" stroke-opacity="0.1"/>
+  <rect x="860" y="188" width="292" height="38" rx="12" fill="#F8FAFC" fill-opacity="0.08"/>
+  <text x="888" y="213" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="18" font-weight="700">CORE TRACKS</text>
+  <rect x="860" y="248" width="292" height="54" rx="18" fill="#1D4ED8" fill-opacity="0.28"/>
+  <text x="888" y="282" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="22" font-weight="700">WIP Visibility</text>
+  <rect x="860" y="320" width="292" height="54" rx="18" fill="#16A34A" fill-opacity="0.24"/>
+  <text x="888" y="354" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="22" font-weight="700">Blocker Handling</text>
+  <rect x="860" y="392" width="292" height="54" rx="18" fill="#F59E0B" fill-opacity="0.24"/>
+  <text x="888" y="426" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="22" font-weight="700">Dispatch Tracking</text>
+  <text x="859" y="522" fill="#94A3B8" font-family="Arial, sans-serif" font-size="20">React · Express · Prisma · Electron</text>
+</svg>
