@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YSKM523/modular_os-showcase/issues/new">Request walkthrough</a> |
-  <a href="https://github.com/YSKM523/modular_os-showcase/issues">Open an issue</a> |
+  <a href="https://github.com/YSKM523/modular-os-platform/issues/new">Request walkthrough</a> |
+  <a href="https://github.com/YSKM523/modular-os-platform/issues">Open an issue</a> |
   <a href="./CHANGELOG.md">View changelog</a> |
   <a href="https://github.com/YSKM523">GitHub profile</a>
 </p>
 
-Public-facing home for the `Modular_OS` project.
+Public-facing platform repository for the `Modular_OS` project.
 
-`Modular_OS` is a modular-construction production control console focused on factory-floor execution, WIP visibility, blocker handling, dispatch tracking, and realtime operations.
+`Modular OS` is a modular-construction production control console focused on factory-floor execution, WIP visibility, blocker handling, dispatch tracking, and realtime operations.
 
 ## Snapshot
 
@@ -40,7 +40,7 @@ The long-term direction is clear: `Modular_OS` should feel less like a board and
 
 ## Contact Buttons
 
-[![Request Walkthrough](https://img.shields.io/badge/request-walkthrough-0b5fff?style=for-the-badge)](https://github.com/YSKM523/modular_os-showcase/issues/new)
+[![Request Walkthrough](https://img.shields.io/badge/request-walkthrough-0b5fff?style=for-the-badge)](https://github.com/YSKM523/modular-os-platform/issues/new)
 [![Follow Progress](https://img.shields.io/badge/follow-progress-14532d?style=for-the-badge)](./CHANGELOG.md)
 [![GitHub Profile](https://img.shields.io/badge/github-YSKM523-111827?style=for-the-badge)](https://github.com/YSKM523)
 
@@ -167,12 +167,12 @@ The content strategy is to stay specific and product-led rather than generic. Th
 
 ## Repositories
 
-- Public showcase: [YSKM523/modular_os-showcase](https://github.com/YSKM523/modular_os-showcase)
+- Public platform repo: [YSKM523/modular-os-platform](https://github.com/YSKM523/modular-os-platform)
 - Private source repository: `YSKM523/modular_os`
 
 ## Contact
 
 - GitHub profile: [@YSKM523](https://github.com/YSKM523)
-- Project showcase: [YSKM523/modular_os-showcase](https://github.com/YSKM523/modular_os-showcase)
-- Walkthrough / product interest: [open an issue](https://github.com/YSKM523/modular_os-showcase/issues/new)
+- Project platform repo: [YSKM523/modular-os-platform](https://github.com/YSKM523/modular-os-platform)
+- Walkthrough / product interest: [open an issue](https://github.com/YSKM523/modular-os-platform/issues/new)
 - Progress log: [CHANGELOG.md](./CHANGELOG.md)

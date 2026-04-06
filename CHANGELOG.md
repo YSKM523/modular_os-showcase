@@ -2,6 +2,13 @@
 
 All notable public-facing updates for `Modular_OS` will be tracked here.
 
+## 2026-04-06
+
+### Changed
+
+- Renamed the public repository identity to `modular-os-platform`
+- Updated public-facing links and repo references to the new platform repository name
+
 ## 2026-04-05
 
 ### Added
